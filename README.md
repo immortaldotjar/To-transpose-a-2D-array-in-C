@@ -1,0 +1,1 @@
+# To-transpose-a-2D-array-in-C
