@@ -1,9 +1,8 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 void Transpose(int r,int c)
 {
-    //Array declaration And intialization
+    //Array declaration
     int m[r][c],tm[r][c],i,j;
 
     //Checking dimension equality
